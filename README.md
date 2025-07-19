@@ -1,4 +1,4 @@
-# 🚦 Traffic Sign Detection and Recognition Using CNN (ResNet)
+# 🚦 Traffic Sign Detection and Recognition Using Deep Learning Models Like CNN (ResNet)
 
 ## 📂 Project Overview
 This project focuses on traffic sign detection using **Convolutional Neural Networks (CNN)** with **ResNet architecture**, trained on the **GTSRB dataset (32,635 images)**.  
